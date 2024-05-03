@@ -1,0 +1,18 @@
+format: jb-book
+root: index.md
+chapters:
+- file: principles/README.md
+- file: institutions/README.md
+- file: functions/README.md
+  sections:
+  - file: functions/planning.md
+  - file: functions/leading/README.md
+    sections:
+    - file: functions/leading/communicating.md
+- file: perspectives/README.md
+  sections:
+  - file: perspectives/governance/README.md
+  - file: perspectives/culture/README.md
+    sections:
+    - file: perspectives/culture/missions_and_visions.md
+    - file: perspectives/culture/values.md
