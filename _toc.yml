@@ -12,6 +12,9 @@ chapters:
 - file: perspectives/README.md
   sections:
   - file: perspectives/governance/README.md
+    sections:
+    - file: perspectives/governance/project_management/README.md
+    - file: perspectives/governance/assets_management/README.md
   - file: perspectives/culture/README.md
     sections:
     - file: perspectives/culture/missions_and_visions.md
