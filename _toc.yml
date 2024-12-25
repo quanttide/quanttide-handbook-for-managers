@@ -10,6 +10,9 @@ chapters:
     - file: principles/information_transparency.md
       title: 信息透明
 - file: institutions/README.md
+  sections:
+    - file: institutions/parliamentary_democracy/README.md
+    - file: institutions/common_law/README.md
 - file: functions/README.md
   sections:
   - file: functions/planning.md
