@@ -2,6 +2,13 @@ format: jb-book
 root: index.md
 chapters:
 - file: principles/README.md
+  sections:
+    - file: principles/power_equality.md
+      title: 权力平等
+    - file: principles/incentive_compatibility.md
+      title: 激励相容
+    - file: principles/information_transparency.md
+      title: 信息透明
 - file: institutions/README.md
 - file: functions/README.md
   sections:
